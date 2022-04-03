@@ -36,9 +36,7 @@ img{ height: 3em;}
 .emp-payroll{ color: #42515f;}
 * { box-sizing: border-box;}
 
-
-
-
+/* UC2 */
 .main-content {
     display: flex;
     flex-direction: column;
@@ -95,4 +93,4 @@ img{ height: 3em;}
     cursor: pointer;
     text-decoration: none;
     text-align: center;
-} 
+}
